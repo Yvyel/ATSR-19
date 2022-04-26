@@ -1,0 +1,6 @@
+def f(x):
+    z = x**3 + 9
+    return z
+x = 9
+res1 = f(9)
+print(res1)
